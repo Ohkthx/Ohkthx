@@ -8,8 +8,5 @@ Current interests include:
 - RPGs, such as Ultima Online
 - APIs
 
-Language Familiarity:
-- Python 3
-- JavasScript / TypeScript
-- Go (Golang)
-- C / C++
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ohkthx&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="Ohkthx's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohkthx&langs_count=8&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
