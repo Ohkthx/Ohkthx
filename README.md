@@ -3,9 +3,9 @@
 Also known under the alias `Schism`, I specialize in chat bots, APIs, RPGs, with expanding my knowledge in automation into algorithmic trading. Feel free to reach out! 
 
 #### Top 3 current publicly accessible projects I have been working on:
-1. [xIPL](https://github.com/Ohkthx/xIPL), Cross-Platform Installer, Patcher, and Launcher for Ultima Online free shards.
-2. [uopatcher](https://github.com/Ohkthx/uopatcher), Patching portion of xIPL using a Manifest-based patching technique.
-3. [uboot](https://github.com/Ohkthx/uboot), a Discord bot with a text-based RPG baked in, and other micro-tools for administration.
+1. [cbadv-rs](https://github.com/Ohkthx/cbadv-rs), Coinbase Advanced API in Rust
+2. [xIPL](https://github.com/Ohkthx/xIPL), Cross-Platform Installer, Patcher, and Launcher for Ultima Online free shards.
+3. [uopatcher](https://github.com/Ohkthx/uopatcher), Patching portion of xIPL using a Manifest-based patching technique.
 
 #### Current Learning Objectives
 
