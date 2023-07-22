@@ -1,6 +1,6 @@
-### Caffiend, exploring new the creation of new tools of automation and algorithms.
+### Caffiend, creating new tools for automation and algorithms.
 
-Also known under the alias `Schism`, I specialize in chat bots, APIs, RPGs, with expanding my knowledge in automation into algorithmic trading. Feel free to reach out! 
+Also known under the alias `Schism`, I specialize in chat bots, APIs, RPGs, with a focus in expanding my knowledge in automation for algorithmic trading. Feel free to reach out! 
 
 #### Top 4 current publicly accessible projects I have been working on:
 1. [cbadv-rs](https://github.com/Ohkthx/cbadv-rs), Coinbase Advanced API in Rust.
@@ -11,7 +11,7 @@ Also known under the alias `Schism`, I specialize in chat bots, APIs, RPGs, with
 #### Current Learning Objectives
 
 - Rust Language, working on becoming more familiar with the language and touch base with my original C Programming roots.
-- Algorithms related to Technical Analysis, with a focus on creating my own indicators.
+- Algorithms related to Technical Analysis, with a focus on creating my own indicators/signals.
 
 ### Statistics
 ---
