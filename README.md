@@ -5,7 +5,7 @@ Also known under the alias `Schism`, I specialize in chat bots, APIs, RPGs, with
 #### Top 5 current publicly accessible projects I have been working on:
 1. [cbadv-rs](https://github.com/Ohkthx/cbadv-rs), Coinbase Advanced API in Rust. (Published Rust Crate)
 2. [yadwh-rs](https://github.com/Ohkthx/yadwh-rs), Yet Another Discord Webhook API in Rust. (Published Rust Crate)
-3. [tatk-rs](https://github.com/Ohkthx/tatk-rs), Technical Analysis Toolkit in Rust.
+3. [tatk-rs](https://github.com/Ohkthx/tatk-rs), Technical Analysis Toolkit in Rust. (Published Rust Crate)
 4. [xIPL](https://github.com/Ohkthx/xIPL), Cross-Platform Installer, Patcher, and Launcher for Ultima Online free shards.
 5. [uopatcher](https://github.com/Ohkthx/uopatcher), Patching portion of xIPL using a Manifest-based patching technique.
 
